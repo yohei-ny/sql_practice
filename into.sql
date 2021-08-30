@@ -13,5 +13,16 @@ SELECT INSTR("ORACLE SERVER","ER",1,2),
 FROM dual;
 
 
+/* LAPD関数,rpad関数
+文字数を合わせるもの
+下記の記述では、文字列の左側に*がn文字分になる分だけ追加される
+LAPD(文字列,n,"*"←埋め込み文字)
+*/
+
+
+
+
+
+
 
 
